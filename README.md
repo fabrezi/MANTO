@@ -1,2 +1,8 @@
 # MANTO
-Create an open-source text-to-video AI generation tool.
+Create an open-source text-to-video AI generation tool. 
+
+## TASK LIST
+
+
+
+
